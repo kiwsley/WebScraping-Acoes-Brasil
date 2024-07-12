@@ -1,0 +1,20 @@
+P /L > 5 < 20
+
+P/VP < 3 crescente
+
+Yield > 5% < 16%
+
+EV/EBIT < 10
+
+ROIC > maior que a selic
+
+Divida bruta / patrimonio liquido < 3
+
+crescimento nos ultimos 5 anos > 10%
+
+Liq.2meses > 1.000.000
+
+
+criar uma coluna de putuação com os tres maiores indicadores de cada coluna de cada coluna
+
+link youtube :https://www.youtube.com/watch?v=gJ7ZQxfP_dA
