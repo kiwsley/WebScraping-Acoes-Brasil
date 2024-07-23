@@ -1,4 +1,5 @@
 # Projeto de Análise de Indicadores Fundamentalistas
+
 Este projeto foi criado utilizando como referência o vídeo do YouTube: https://www.youtube.com/watch?v=gJ7ZQxfP_dA
 
 # Descrição
@@ -38,4 +39,6 @@ Webdriver do Selenium (compatível com o navegador em uso)
 How to Use Selenium with Python
 Fundamentus ("https://www.fundamentus.com.br/resultado.php")
 
-Este projeto é uma demonstração de como utilizar o Selenium e o Pandas para realizar a análise de indicadores fundamentalistas de ações.
+# AVISO:
+
+# Os resultados obtidos neste projeto não constituem recomendações de investimento. No entanto, podem servir como um ponto de partida útil para quem deseja estudar e entender melhor o mercado de ações. Este projeto é uma demonstração de como utilizar o Selenium e o Pandas para realizar a análise de indicadores fundamentalistas de ações.
